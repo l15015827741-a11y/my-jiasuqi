@@ -1,0 +1,4 @@
+app/src/main/AndroidManifest.xml
+app/src/main/java/com/my/jiasuqi/MainActivity.kt
+.github/workflows/build.yml
+settings.gradle
